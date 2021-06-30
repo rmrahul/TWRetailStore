@@ -1,0 +1,22 @@
+PODS:
+  - SwiftHEXColors (1.1.1)
+  - SwiftMessages (4.1.4):
+    - SwiftMessages/App (= 4.1.4)
+  - SwiftMessages/App (4.1.4)
+
+DEPENDENCIES:
+  - SwiftHEXColors
+  - SwiftMessages
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SwiftHEXColors
+    - SwiftMessages
+
+SPEC CHECKSUMS:
+  SwiftHEXColors: 9681e756dc78a99ae97f277165b3f5e33b087553
+  SwiftMessages: 2c33fdee8b8f38dfc7e1036684456b505891da8c
+
+PODFILE CHECKSUM: c3472146c03039ae0245de22890dd1275aba33de
+
+COCOAPODS: 1.5.3
